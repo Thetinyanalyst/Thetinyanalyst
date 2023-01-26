@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Problems With Planning](https://thenotsoprolificwriter.com/the-problems-with-planning/?utm_source=rss&utm_medium=rss&utm_campaign=the-problems-with-planning)
 - [Ananke](https://medium.com/blueinsight/ananke-29390950d6dc?source=rss-7e934d3c1233------2)
 - [Dirty Human Soup](https://thenotsoprolificwriter.com/dirty-human-soup/?utm_source=rss&utm_medium=rss&utm_campaign=dirty-human-soup)
 - [Introverts And… Plans?!](https://thenotsoprolificwriter.com/introverts-and-plans/?utm_source=rss&utm_medium=rss&utm_campaign=introverts-and-plans)
 - [Ananke](https://thenotsoprolificwriter.com/ananke/?utm_source=rss&utm_medium=rss&utm_campaign=ananke)
-- [5 Things A Bride Needs To Know Before The Big Day](https://thenotsoprolificwriter.com/5-things-a-bride-needs-to-know-before-the-big-day/?utm_source=rss&utm_medium=rss&utm_campaign=5-things-a-bride-needs-to-know-before-the-big-day)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
