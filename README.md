@@ -24,10 +24,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Introverts And… Plans?!](https://medium.com/illumination/introverts-and-plans-3f04d1ac9b96?source=rss-7e934d3c1233------2)
+- [The Problems With Planning](https://thenotsoprolificwriter.com/the-problems-with-planning/?utm_source=rss&utm_medium=rss&utm_campaign=the-problems-with-planning)
 - [Ananke](https://medium.com/blueinsight/ananke-29390950d6dc?source=rss-7e934d3c1233------2)
-- [Please Don’t Give These 3 Books As Gifts](https://baos.pub/please-dont-give-these-3-books-as-gifts-fc321084a5?source=rss-7e934d3c1233------2)
-- [My Tribe](https://medium.com/blueinsight/my-tribe-3d66361781c0?source=rss-7e934d3c1233------2)
-- [The Marital Day PTSD](https://medium.com/writers-blokke/the-marital-day-ptsd-a81ef5f3046f?source=rss-7e934d3c1233------2)
+- [Dirty Human Soup](https://thenotsoprolificwriter.com/dirty-human-soup/?utm_source=rss&utm_medium=rss&utm_campaign=dirty-human-soup)
+- [Introverts And… Plans?!](https://thenotsoprolificwriter.com/introverts-and-plans/?utm_source=rss&utm_medium=rss&utm_campaign=introverts-and-plans)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
