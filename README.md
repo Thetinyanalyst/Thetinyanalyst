@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Love: The Fantasy Of A Rational Mind](https://medium.com/blueinsight/love-the-fantasy-of-a-rational-mind-6d9940e828dd?source=rss-7e934d3c1233------2)
 - [Parents: An Anthology In Incidents](https://thenotsoprolificwriter.com/parents-an-anthology-in-incidents/?utm_source=rss&utm_medium=rss&utm_campaign=parents-an-anthology-in-incidents)
 - [The Problems With Planning](https://medium.com/illumination/the-problems-with-planning-3aeb44676fb6?source=rss-7e934d3c1233------2)
 - [Love: The Fantasy Of A Rational Mind](https://thenotsoprolificwriter.com/love-the-fantasy-of-a-rational-mind/?utm_source=rss&utm_medium=rss&utm_campaign=love-the-fantasy-of-a-rational-mind)
 - [Dirty Human Soup](https://medium.com/blueinsight/dirty-human-soup-a089a8108901?source=rss-7e934d3c1233------2)
-- [The Odds](https://thenotsoprolificwriter.com/the-odds/?utm_source=rss&utm_medium=rss&utm_campaign=the-odds)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
