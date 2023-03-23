@@ -24,10 +24,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Cold: The Father](https://thenotsoprolificwriter.com/the-cold-the-father/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-father)
+- [Parents: An Anthology In Incidents](https://medium.com/blueinsight/parents-an-anthology-in-incidents-5cd157c8c41?source=rss-7e934d3c1233------2)
 - [A Bad Day](https://thenotsoprolificwriter.com/a-bad-day/?utm_source=rss&utm_medium=rss&utm_campaign=a-bad-day)
 - [Movies That Left ME Scarred](https://thenotsoprolificwriter.com/movies-that-left-me-scarred/?utm_source=rss&utm_medium=rss&utm_campaign=movies-that-left-me-scarred)
 - [The Real-Life Horror Story](https://thenotsoprolificwriter.com/the-real-life-horror-story/?utm_source=rss&utm_medium=rss&utm_campaign=the-real-life-horror-story)
-- [Parents: An Anthology In Incidents](https://thenotsoprolificwriter.com/parents-an-anthology-in-incidents/?utm_source=rss&utm_medium=rss&utm_campaign=parents-an-anthology-in-incidents)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
