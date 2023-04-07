@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Cold: The Sister](https://thenotsoprolificwriter.com/the-cold-the-sister/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-sister)
-- [The Cold: The Mother](https://thenotsoprolificwriter.com/the-cold-the-mother/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-mother)
 - [The Odds](https://medium.com/horror-hounds/the-odds-27c2e25c14af?source=rss-7e934d3c1233------2)
-- [The Cold: The Father](https://thenotsoprolificwriter.com/the-cold-the-father/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-father)
 - [Parents: An Anthology In Incidents](https://medium.com/blueinsight/parents-an-anthology-in-incidents-5cd157c8c41?source=rss-7e934d3c1233------2)
+- [Love: The Fantasy Of A Rational Mind](https://medium.com/blueinsight/love-the-fantasy-of-a-rational-mind-6d9940e828dd?source=rss-7e934d3c1233------2)
+- [The Problems With Planning](https://medium.com/illumination/the-problems-with-planning-3aeb44676fb6?source=rss-7e934d3c1233------2)
+- [Dirty Human Soup](https://medium.com/blueinsight/dirty-human-soup-a089a8108901?source=rss-7e934d3c1233------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
