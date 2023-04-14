@@ -26,8 +26,8 @@
 - [The Cold: The Girl](https://thenotsoprolificwriter.com/the-cold-the-girl/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-girl)
 - [The Cold: The Sister](https://thenotsoprolificwriter.com/the-cold-the-sister/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-sister)
 - [The Cold: The Mother](https://thenotsoprolificwriter.com/the-cold-the-mother/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-mother)
-- [The Odds](https://medium.com/horror-hounds/the-odds-27c2e25c14af?source=rss-7e934d3c1233------2)
 - [The Cold: The Father](https://thenotsoprolificwriter.com/the-cold-the-father/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-father)
+- [A Bad Day](https://thenotsoprolificwriter.com/a-bad-day/?utm_source=rss&utm_medium=rss&utm_campaign=a-bad-day)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
