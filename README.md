@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cold: The Mother](https://medium.com/horror-hounds/the-cold-the-mother-48d4275f9ab?source=rss-7e934d3c1233------2)
 - [The Cold: The Bunny](https://thenotsoprolificwriter.com/the-cold-the-bunny/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-bunny)
+- [The Cold: The Father](https://medium.com/horror-hounds/the-cold-the-father-cc24457552f5?source=rss-7e934d3c1233------2)
 - [The Cold: The Girl](https://thenotsoprolificwriter.com/the-cold-the-girl/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-girl)
 - [The Cold: The Sister](https://thenotsoprolificwriter.com/the-cold-the-sister/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-sister)
-- [The Cold: The Mother](https://thenotsoprolificwriter.com/the-cold-the-mother/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-mother)
-- [The Cold: The Father](https://thenotsoprolificwriter.com/the-cold-the-father/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-father)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
