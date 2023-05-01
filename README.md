@@ -24,10 +24,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Cold: The Girl](https://medium.com/horror-hounds/the-cold-the-girl-b9aa0a8fc033?source=rss-7e934d3c1233------2)
-- [The Empty Cup](https://thenotsoprolificwriter.com/the-empty-cup/?utm_source=rss&utm_medium=rss&utm_campaign=the-empty-cup)
 - [The Cold: The Sister](https://medium.com/horror-hounds/the-cold-the-sister-f74fb4566f4d?source=rss-7e934d3c1233------2)
 - [The Cold: The Mother](https://medium.com/horror-hounds/the-cold-the-mother-48d4275f9ab?source=rss-7e934d3c1233------2)
-- [The Cold: The Bunny](https://thenotsoprolificwriter.com/the-cold-the-bunny/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-bunny)
+- [The Cold: The Father](https://medium.com/horror-hounds/the-cold-the-father-cc24457552f5?source=rss-7e934d3c1233------2)
+- [The Odds](https://medium.com/horror-hounds/the-odds-27c2e25c14af?source=rss-7e934d3c1233------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
