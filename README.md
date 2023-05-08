@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cold: The End](https://thenotsoprolificwriter.com/the-cold-the-end/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-end)
 - [The Cold: The Bunny](https://medium.com/horror-hounds/the-cold-the-bunny-5e404bcb682?source=rss-7e934d3c1233------2)
 - [The Cold: The Girl](https://medium.com/horror-hounds/the-cold-the-girl-b9aa0a8fc033?source=rss-7e934d3c1233------2)
 - [The Empty Cup](https://thenotsoprolificwriter.com/the-empty-cup/?utm_source=rss&utm_medium=rss&utm_campaign=the-empty-cup)
 - [The Cold: The Sister](https://medium.com/horror-hounds/the-cold-the-sister-f74fb4566f4d?source=rss-7e934d3c1233------2)
-- [The Cold: The Mother](https://medium.com/horror-hounds/the-cold-the-mother-48d4275f9ab?source=rss-7e934d3c1233------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
