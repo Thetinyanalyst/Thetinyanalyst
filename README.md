@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Books That Did Romance Right](https://baos.pub/books-that-did-romance-right-8a06e796bb0d?source=rss-7e934d3c1233------2)
 - [The Empty Cup](https://medium.com/blueinsight/the-empty-cup-a7e5c8667224?source=rss-7e934d3c1233------2)
 - [The Cold: The End](https://medium.com/horror-hounds/the-cold-the-end-79b97ed1a501?source=rss-7e934d3c1233------2)
 - [The Cold: The End](https://thenotsoprolificwriter.com/the-cold-the-end/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-end)
 - [The Cold: The Bunny](https://medium.com/horror-hounds/the-cold-the-bunny-5e404bcb682?source=rss-7e934d3c1233------2)
-- [The Cold: The Girl](https://medium.com/horror-hounds/the-cold-the-girl-b9aa0a8fc033?source=rss-7e934d3c1233------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
