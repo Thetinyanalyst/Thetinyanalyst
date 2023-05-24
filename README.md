@@ -24,10 +24,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Problems of Living With A Giant](https://thenotsoprolificwriter.com/the-problems-of-living-with-a-giant/?utm_source=rss&utm_medium=rss&utm_campaign=the-problems-of-living-with-a-giant)
-- [Books That Did Romance Right](https://baos.pub/books-that-did-romance-right-8a06e796bb0d?source=rss-7e934d3c1233------2)
-- [The Empty Cup](https://medium.com/blueinsight/the-empty-cup-a7e5c8667224?source=rss-7e934d3c1233------2)
-- [The Cold: The End](https://medium.com/horror-hounds/the-cold-the-end-79b97ed1a501?source=rss-7e934d3c1233------2)
 - [The Cold: The End](https://thenotsoprolificwriter.com/the-cold-the-end/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-end)
+- [The Empty Cup](https://thenotsoprolificwriter.com/the-empty-cup/?utm_source=rss&utm_medium=rss&utm_campaign=the-empty-cup)
+- [The Cold: The Bunny](https://thenotsoprolificwriter.com/the-cold-the-bunny/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-bunny)
+- [The Cold: The Girl](https://thenotsoprolificwriter.com/the-cold-the-girl/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-girl)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
