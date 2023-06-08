@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Books That Gave Birth To Horrifying Movies](https://medium.com/cinemania/books-that-gave-birth-to-horrifying-movies-db1e87a36f66?source=rss-7e934d3c1233------2)
-- [Terrifying Movies That Will Fuel Your Nightmares](https://medium.com/horror-hounds/terrifying-movies-that-will-fuel-your-nightmares-75b611248021?source=rss-7e934d3c1233------2)
 - [The Giants Revenge](https://thenotsoprolificwriter.com/the-giants-revenge/?utm_source=rss&utm_medium=rss&utm_campaign=the-giants-revenge)
-- [A Bad Day](https://medium.com/ipoetry/a-bad-day-376ae7f85f16?source=rss-7e934d3c1233------2)
 - [The Problems of Living With A Giant](https://thenotsoprolificwriter.com/the-problems-of-living-with-a-giant/?utm_source=rss&utm_medium=rss&utm_campaign=the-problems-of-living-with-a-giant)
+- [The Cold: The End](https://thenotsoprolificwriter.com/the-cold-the-end/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-end)
+- [The Empty Cup](https://thenotsoprolificwriter.com/the-empty-cup/?utm_source=rss&utm_medium=rss&utm_campaign=the-empty-cup)
+- [The Cold: The Bunny](https://thenotsoprolificwriter.com/the-cold-the-bunny/?utm_source=rss&utm_medium=rss&utm_campaign=the-cold-the-bunny)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
