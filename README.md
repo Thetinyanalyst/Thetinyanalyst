@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Little Bird](https://thenotsoprolificwriter.com/little-bird/?utm_source=rss&utm_medium=rss&utm_campaign=little-bird)
 - [The Invisible Monster](https://medium.com/blueinsight/the-invisible-monster-faf1da660745?source=rss-7e934d3c1233------2)
 - [Books That Did Romance Right](https://thenotsoprolificwriter.com/books-that-did-romance-right/?utm_source=rss&utm_medium=rss&utm_campaign=books-that-did-romance-right)
 - [Books That Gave Birth To Horrifying Movies](https://medium.com/cinemania/books-that-gave-birth-to-horrifying-movies-db1e87a36f66?source=rss-7e934d3c1233------2)
 - [Terrifying Movies That Will Fuel Your Nightmares](https://medium.com/horror-hounds/terrifying-movies-that-will-fuel-your-nightmares-75b611248021?source=rss-7e934d3c1233------2)
-- [The Giants Revenge](https://thenotsoprolificwriter.com/the-giants-revenge/?utm_source=rss&utm_medium=rss&utm_campaign=the-giants-revenge)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
