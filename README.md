@@ -24,10 +24,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Nosy “Well-Wishers” and The Human Lifecycle](https://thenotsoprolificwriter.com/nosy-well-wishers-and-the-human-lifecycle/?utm_source=rss&utm_medium=rss&utm_campaign=nosy-well-wishers-and-the-human-lifecycle)
+- [Little Bird](https://medium.com/blueinsight/little-bird-2df869491c6c?source=rss-7e934d3c1233------2)
 - [Little Bird](https://thenotsoprolificwriter.com/little-bird/?utm_source=rss&utm_medium=rss&utm_campaign=little-bird)
+- [The Invisible Monster](https://medium.com/blueinsight/the-invisible-monster-faf1da660745?source=rss-7e934d3c1233------2)
 - [Books That Did Romance Right](https://thenotsoprolificwriter.com/books-that-did-romance-right/?utm_source=rss&utm_medium=rss&utm_campaign=books-that-did-romance-right)
-- [The Giants Revenge](https://thenotsoprolificwriter.com/the-giants-revenge/?utm_source=rss&utm_medium=rss&utm_campaign=the-giants-revenge)
-- [The Problems of Living With A Giant](https://thenotsoprolificwriter.com/the-problems-of-living-with-a-giant/?utm_source=rss&utm_medium=rss&utm_campaign=the-problems-of-living-with-a-giant)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
