@@ -25,9 +25,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [CH2: The City](https://thenotsoprolificwriter.com/ch2-the-city/?utm_source=rss&utm_medium=rss&utm_campaign=ch2-the-city)
 - [CH 1: The D.I.G.G.E.R](https://thenotsoprolificwriter.com/ch-1-the-d-i-g-g-e-r/?utm_source=rss&utm_medium=rss&utm_campaign=ch-1-the-d-i-g-g-e-r)
+- [Books That Made Me Think](https://baos.pub/books-that-made-me-think-e5279a775f87?source=rss-7e934d3c1233------2)
 - [Books That Made Me Think](https://thenotsoprolificwriter.com/books-that-made-me-think/?utm_source=rss&utm_medium=rss&utm_campaign=books-that-made-me-think)
-- [Nosy “Well-Wishers” and The Human Lifecycle](https://thenotsoprolificwriter.com/nosy-well-wishers-and-the-human-lifecycle/?utm_source=rss&utm_medium=rss&utm_campaign=nosy-well-wishers-and-the-human-lifecycle)
-- [Little Bird](https://thenotsoprolificwriter.com/little-bird/?utm_source=rss&utm_medium=rss&utm_campaign=little-bird)
+- [Nosy “Well-Wishers” and The Human Lifecycle](https://medium.com/illumination/nosy-well-wishers-and-the-human-lifecycle-a46724ddba63?source=rss-7e934d3c1233------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
