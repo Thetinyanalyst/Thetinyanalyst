@@ -25,9 +25,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Papercuts](https://medium.com/blueinsight/papercuts-85abc3e7cafc?source=rss-7e934d3c1233------2)
 - [Fortress](https://medium.com/blueinsight/fortress-7614bc77c6d?source=rss-7e934d3c1233------2)
+- [CH4: The Others](https://thenotsoprolificwriter.com/ch4-the-others/?utm_source=rss&utm_medium=rss&utm_campaign=ch4-the-others)
+- [CH3: The High Table](https://thenotsoprolificwriter.com/ch3-the-high-table/?utm_source=rss&utm_medium=rss&utm_campaign=ch3-the-high-table)
 - [What Is Love?](https://medium.com/blueinsight/what-is-love-28f65256684e?source=rss-7e934d3c1233------2)
-- [Books That Made Me Think](https://baos.pub/books-that-made-me-think-e5279a775f87?source=rss-7e934d3c1233------2)
-- [Nosy “Well-Wishers” and The Human Lifecycle](https://medium.com/illumination/nosy-well-wishers-and-the-human-lifecycle-a46724ddba63?source=rss-7e934d3c1233------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
