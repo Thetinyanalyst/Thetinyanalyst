@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Siren’s Call](https://medium.com/the-lark/sirens-call-408446d112da?source=rss-7e934d3c1233------2)
 - [The Fleeting Companion](https://medium.com/blueinsight/the-fleeting-companion-3a8e0c5d1e47?source=rss-7e934d3c1233------2)
 - [The Fleeting Companion](https://thenotsoprolificwriter.com/the-fleeting-companion/?utm_source=rss&utm_medium=rss&utm_campaign=the-fleeting-companion)
 - [Papercuts](https://medium.com/blueinsight/papercuts-85abc3e7cafc?source=rss-7e934d3c1233------2)
 - [Fortress](https://medium.com/blueinsight/fortress-7614bc77c6d?source=rss-7e934d3c1233------2)
-- [CH4: The Others](https://thenotsoprolificwriter.com/ch4-the-others/?utm_source=rss&utm_medium=rss&utm_campaign=ch4-the-others)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
