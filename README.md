@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Achieve More, Thrive Less: The New Way Of Life](https://medium.com/illumination/achieve-more-thrive-less-the-new-way-of-life-832e9ee16374?source=rss-7e934d3c1233------2)
+- [Siren’s Call](https://medium.com/the-lark/sirens-call-408446d112da?source=rss-7e934d3c1233------2)
+- [The Fleeting Companion](https://medium.com/blueinsight/the-fleeting-companion-3a8e0c5d1e47?source=rss-7e934d3c1233------2)
 - [The Fleeting Companion](https://thenotsoprolificwriter.com/the-fleeting-companion/?utm_source=rss&utm_medium=rss&utm_campaign=the-fleeting-companion)
-- [CH4: The Others](https://thenotsoprolificwriter.com/ch4-the-others/?utm_source=rss&utm_medium=rss&utm_campaign=ch4-the-others)
-- [CH3: The High Table](https://thenotsoprolificwriter.com/ch3-the-high-table/?utm_source=rss&utm_medium=rss&utm_campaign=ch3-the-high-table)
-- [CH2: The City](https://thenotsoprolificwriter.com/ch2-the-city/?utm_source=rss&utm_medium=rss&utm_campaign=ch2-the-city)
-- [CH 1: The D.I.G.G.E.R](https://thenotsoprolificwriter.com/ch-1-the-d-i-g-g-e-r/?utm_source=rss&utm_medium=rss&utm_campaign=ch-1-the-d-i-g-g-e-r)
+- [Papercuts](https://medium.com/blueinsight/papercuts-85abc3e7cafc?source=rss-7e934d3c1233------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
