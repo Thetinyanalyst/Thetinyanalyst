@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [People Watching: Who Are We Really?](https://medium.com/blueinsight/people-watching-who-are-we-really-75ced250a19c?source=rss-7e934d3c1233------2)
 - [An Introverts Wet Dream](https://medium.com/blueinsight/an-introverts-wet-dream-b4e23a802ea7?source=rss-7e934d3c1233------2)
 - [Achieve More, Thrive Less: The New Way Of Life](https://medium.com/illumination/achieve-more-thrive-less-the-new-way-of-life-832e9ee16374?source=rss-7e934d3c1233------2)
 - [Siren’s Call](https://medium.com/the-lark/sirens-call-408446d112da?source=rss-7e934d3c1233------2)
 - [The Fleeting Companion](https://medium.com/blueinsight/the-fleeting-companion-3a8e0c5d1e47?source=rss-7e934d3c1233------2)
-- [The Fleeting Companion](https://thenotsoprolificwriter.com/the-fleeting-companion/?utm_source=rss&utm_medium=rss&utm_campaign=the-fleeting-companion)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
