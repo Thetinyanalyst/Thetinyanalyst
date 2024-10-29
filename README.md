@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Changing Colors](https://medium.com/ipoetry/changing-colors-c60f5d4a4c83?source=rss-7e934d3c1233------2)
-- [The Anxious Brain: What Are You Scared Of?](https://medium.com/blueinsight/the-anxious-brain-what-are-you-scared-of-19f2c8aad1d2?source=rss-7e934d3c1233------2)
-- [People Watching: Who Are We Really?](https://medium.com/blueinsight/people-watching-who-are-we-really-75ced250a19c?source=rss-7e934d3c1233------2)
-- [An Introverts Wet Dream](https://medium.com/blueinsight/an-introverts-wet-dream-b4e23a802ea7?source=rss-7e934d3c1233------2)
-- [Achieve More, Thrive Less: The New Way Of Life](https://medium.com/illumination/achieve-more-thrive-less-the-new-way-of-life-832e9ee16374?source=rss-7e934d3c1233------2)
+- [The Fleeting Companion](https://thenotsoprolificwriter.com/the-fleeting-companion/?utm_source=rss&utm_medium=rss&utm_campaign=the-fleeting-companion)
+- [CH4: The Others](https://thenotsoprolificwriter.com/ch4-the-others/?utm_source=rss&utm_medium=rss&utm_campaign=ch4-the-others)
+- [CH3: The High Table](https://thenotsoprolificwriter.com/ch3-the-high-table/?utm_source=rss&utm_medium=rss&utm_campaign=ch3-the-high-table)
+- [CH2: The City](https://thenotsoprolificwriter.com/ch2-the-city/?utm_source=rss&utm_medium=rss&utm_campaign=ch2-the-city)
+- [CH 1: The D.I.G.G.E.R](https://thenotsoprolificwriter.com/ch-1-the-d-i-g-g-e-r/?utm_source=rss&utm_medium=rss&utm_campaign=ch-1-the-d-i-g-g-e-r)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
