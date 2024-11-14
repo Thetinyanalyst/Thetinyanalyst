@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Forgiveness: The Struggle We Don’t Talk About](https://medium.com/illumination/forgiveness-the-struggle-we-dont-talk-about-ff1fa3eedadb?source=rss-7e934d3c1233------2)
 - [If I Were A Villain For A Day](https://medium.com/illumination/if-i-were-a-villain-for-a-day-accd038d0777?source=rss-7e934d3c1233------2)
 - [A Letter Of Apology To The Girl I Left Behind](https://medium.com/illumination/a-letter-of-apology-to-the-girl-i-left-behind-3dccf3c4ed6d?source=rss-7e934d3c1233------2)
 - [Changing Colors](https://medium.com/ipoetry/changing-colors-c60f5d4a4c83?source=rss-7e934d3c1233------2)
 - [The Anxious Brain: What Are You Scared Of?](https://medium.com/blueinsight/the-anxious-brain-what-are-you-scared-of-19f2c8aad1d2?source=rss-7e934d3c1233------2)
-- [People Watching: Who Are We Really?](https://medium.com/blueinsight/people-watching-who-are-we-really-75ced250a19c?source=rss-7e934d3c1233------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
