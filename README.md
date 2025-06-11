@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Forgiveness: The Struggle We Don’t Talk About](https://medium.com/illumination/forgiveness-the-struggle-we-dont-talk-about-ff1fa3eedadb?source=rss-7e934d3c1233------2)
-- [If I Were A Villain For A Day](https://medium.com/illumination/if-i-were-a-villain-for-a-day-accd038d0777?source=rss-7e934d3c1233------2)
-- [A Letter Of Apology To The Girl I Left Behind](https://medium.com/illumination/a-letter-of-apology-to-the-girl-i-left-behind-3dccf3c4ed6d?source=rss-7e934d3c1233------2)
-- [Changing Colors](https://medium.com/ipoetry/changing-colors-c60f5d4a4c83?source=rss-7e934d3c1233------2)
-- [The Anxious Brain: What Are You Scared Of?](https://medium.com/@thenotsoprolificwriter/the-anxious-brain-what-are-you-scared-of-19f2c8aad1d2?source=rss-7e934d3c1233------2)
+- [The Fleeting Companion](https://thenotsoprolificwriter.com/the-fleeting-companion/?utm_source=rss&utm_medium=rss&utm_campaign=the-fleeting-companion)
+- [CH4: The Others](https://thenotsoprolificwriter.com/ch4-the-others/?utm_source=rss&utm_medium=rss&utm_campaign=ch4-the-others)
+- [CH3: The High Table](https://thenotsoprolificwriter.com/ch3-the-high-table/?utm_source=rss&utm_medium=rss&utm_campaign=ch3-the-high-table)
+- [CH2: The City](https://thenotsoprolificwriter.com/ch2-the-city/?utm_source=rss&utm_medium=rss&utm_campaign=ch2-the-city)
+- [CH 1: The D.I.G.G.E.R](https://thenotsoprolificwriter.com/ch-1-the-d-i-g-g-e-r/?utm_source=rss&utm_medium=rss&utm_campaign=ch-1-the-d-i-g-g-e-r)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
